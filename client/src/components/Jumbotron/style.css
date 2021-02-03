@@ -1,0 +1,10 @@
+.jumbotron {
+  padding: 100px;
+  background-color: rgba(30, 126, 244, 0.63);
+  color: white;
+  border-radius: 50px;
+  margin: 30px;
+  width: 80%;
+  transform: translate(10%);
+transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
